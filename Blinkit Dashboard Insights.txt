@@ -13,7 +13,7 @@ Dashboard Features:
  ⦁ Clean, User-Friendly Design to simplify decision-making.
 
 Tools Used:
- Python (Pandas, NumPy, Matplotlib, Seaborn) | SQL | Power BI | Excel
+ ⦁ Python (Pandas, NumPy, Matplotlib, Seaborn) | SQL | Power BI | Excel
 
  Business Value Delivered:
  ⦁ Identify high-performing outlets & products to optimize inventory.
@@ -22,6 +22,7 @@ Tools Used:
  ⦁ Drive data-driven promotions for sustained growth.
 
 This project helped me strengthen my skills in:
-⦁ Data Cleaning & Transformation
-⦁ Dashboard Design
-⦁ Extracting Actionable Business Insights
+ ⦁ Data Cleaning & Transformation
+ ⦁ Dashboard Design
+ ⦁ Extracting Actionable Business Insights
+
