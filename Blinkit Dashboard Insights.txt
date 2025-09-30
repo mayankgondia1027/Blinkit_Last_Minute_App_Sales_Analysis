@@ -1,0 +1,28 @@
+1 month ago • Edited • Visible to anyone on or off LinkedIn
+
+Excited to share my 𝗙𝗶𝗿𝘀𝘁 𝗦𝗮𝗹𝗲𝘀 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 created using 𝙋𝙮𝙩𝙝𝙤𝙣, 𝙎𝙌𝙇, 𝙋𝙤𝙬𝙚𝙧 𝘽𝙄 & 𝙀𝙭𝙘𝙚𝙡 for Blinkit – India’s Last Minute App! 
+ ⦁ $1.20M Total Sales generated from 8,523 Items Sold → showcasing Blinkit’s strong urban demand.
+ ⦁ $141 Average Sales Value with an impressive 4.0 Avg Rating, reflecting consistent customer satisfaction.
+ ⦁ Tier 3 Outlets lead with $472.1K Sales, showing the untapped potential in smaller cities.
+ ⦁ Regular Fat Products dominate performance, contributing $776.3K in Sales.
+ ⦁ Supermarket Type 1 emerges as the top outlet format, generating $787.5K Sales.
+
+Dashboard Features:
+ ⦁ KPI Cards → instant visibility of business metrics.
+ ⦁ Dynamic Filters for Outlet Type, Outlet Size & Item Type.
+ ⦁ Interactive Visuals – Line Charts, Donut Charts & Bar Graphs for deep insights.
+ ⦁ Clean, User-Friendly Design to simplify decision-making.
+
+Tools Used:
+ Python (Pandas, NumPy, Matplotlib, Seaborn) | SQL | Power BI | Excel
+
+ Business Value Delivered:
+ ⦁ Identify high-performing outlets & products to optimize inventory.
+ ⦁ Support outlet-level strategy for Tier 3 markets.
+ ⦁ Track customer preferences by product type.
+ ⦁ Drive data-driven promotions for sustained growth.
+
+This project helped me strengthen my skills in:
+⦁ Data Cleaning & Transformation
+⦁ Dashboard Design
+⦁ Extracting Actionable Business Insights
